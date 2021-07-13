@@ -14,7 +14,7 @@ print(c)
 print(c[3])
 
 # list slicing
-d = '황예림어린이'
+d = '김태양어린이'
 print(d)
 print(d[:3])
 print(d[::2])
